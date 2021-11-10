@@ -1,5 +1,6 @@
 {
     "addresses": [
+        
         {
             "address1": "5615 West Villa Maria Drive",
             "address2": "",
@@ -9,8 +10,7 @@
             "coordinates": {
                 "lat": 33.650988,
                 "lng": -112.180624
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "3162 Martin Luther King Junior Boulevard",
@@ -21,8 +21,7 @@
             "coordinates": {
                 "lat": 36.05233310000001,
                 "lng": -94.2056987
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "5306 Ritchie Highway",
@@ -33,8 +32,7 @@
             "coordinates": {
                 "lat": 39.221978,
                 "lng": -76.614183
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "109 Summit Street",
@@ -45,8 +43,7 @@
             "coordinates": {
                 "lat": 44.4729749,
                 "lng": -73.2026566
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "816 West 19th Avenue",
@@ -57,8 +54,7 @@
             "coordinates": {
                 "lat": 61.203221,
                 "lng": -149.898655
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "172 Alburg Springs Road",
@@ -69,8 +65,7 @@
             "coordinates": {
                 "lat": 44.995827,
                 "lng": -73.2201539
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "159 Downey Drive",
@@ -81,8 +76,7 @@
             "coordinates": {
                 "lat": 41.7800126,
                 "lng": -72.5754309
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "125 John Street",
@@ -93,8 +87,7 @@
             "coordinates": {
                 "lat": 36.950901,
                 "lng": -122.046881
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "130 Old Route 103",
@@ -105,8 +98,7 @@
             "coordinates": {
                 "lat": 43.224335,
                 "lng": -72.54227399999999
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "10826 Pointe Royal Drive",
@@ -117,8 +109,7 @@
             "coordinates": {
                 "lat": 35.2930007,
                 "lng": -119.1225908
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "2901 Los Feliz Blvd",
@@ -129,8 +120,7 @@
             "coordinates": {
                 "lat": 34.128521,
                 "lng": -118.263657
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "3201 W 6th St",
@@ -139,10 +129,9 @@
             "state": "CA",
             "postalCode": "90020",
             "coordinates": {
-                "lat": 34.06451,
-                "lng": -118.29203
-            },
-            "name": "United States Postal Service"
+                "lat": 34.064510,
+                "lng": -118.292030
+            }
         },
         {
             "address1": "4707 W N Venice Blvd",
@@ -151,10 +140,9 @@
             "state": "CA",
             "postalCode": "90019",
             "coordinates": {
-                "lat": 34.04225,
-                "lng": -118.36533
-            },
-            "name": "United States Postal Service"
+                "lat": 34.042250,
+                "lng": -118.365330
+            }
         },
         {
             "address1": "4255 Lyndon B Johnson Fwy",
@@ -163,10 +151,9 @@
             "state": "TX",
             "postalCode": "75244",
             "coordinates": {
-                "lat": 32.92741,
-                "lng": -96.83731
-            },
-            "name": "United States Postal Service"
+                "lat": 32.927410,
+                "lng": -96.837310
+            }
         },
         {
             "address1": "4255 Lyndon B Johnson Fwy",
@@ -177,8 +164,7 @@
             "coordinates": {
                 "lat": 32.921832,
                 "lng": -96.840491
-            },
-            "name": "United States Postal Service"
+            }
         },
         {
             "address1": "8055 Churchill Way",
@@ -189,8 +175,7 @@
             "coordinates": {
                 "lat": 32.919567,
                 "lng": -96.768389
-            },
-            "name": "United States Postal Service"
+            }
         }
     ],
     "attribution": [
@@ -231,7 +216,7 @@
         "City of Nashville (TN)",
         "Cooke,Fannin,Grayson Counties - Texoma Council of Governments (TX)",
         "Municipality of Anchorage (AK)",
-        "Copyright \u00c2\u00a9 2015 Kenai Peninsula Borough (AK)",
+        "Copyright © 2015 Kenai Peninsula Borough (AK)",
         "Matanuska-Susitna Borough (AK)",
         "City of Glendale (AZ)",
         "City of Mesa (AZ)",
@@ -304,31 +289,13 @@
             "times": []
         },
         {
-            "times": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
+            "times": [9,10,11,12,13,14,15,16,17]
         },
         {
-            "times": [
-                9.5,
-                10.5,
-                11.5,
-                12.5,
-                13.5,
-                14.5,
-                15.5,
-                16.5,
-                17.5
-            ]
+            "times": [9.5,10.5,11.5,12.5,13.5,14.5,15.5,16.5,17.5]
         }
     ],
-    "appointments": []
+    "appointments": [
+        
+    ]
 }

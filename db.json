@@ -1,16 +1,16 @@
 {
     "addresses": [
         {
-            "address1": "5615 West Villa Maria Drive",
+            "address1": "129 Main St",
             "address2": "",
-            "city": "Glendale",
-            "state": "AZ",
-            "postalCode": "85308",
+            "city": "Stony Brook",
+            "state": "NY",
+            "postalCode": "11790",
             "coordinates": {
-                "lat": 33.650988,
-                "lng": -112.180624
+                "lat": 40.916430,
+                "lng": -73.146320
             },
-            "name": "ItsEasy Passport & Visa"
+            "name": "United States Postal Service"
         },
         {
             "address1": "3162 Martin Luther King Junior Boulevard",
@@ -133,14 +133,14 @@
             "name": "Fastport Passport"
         },
         {
-            "address1": "3201 W 6th St",
+            "address1": "40 Queens St",
             "address2": "",
-            "city": "Los Angeles",
-            "state": "CA",
-            "postalCode": "90020",
+            "city": "Syosset",
+            "state": "NY",
+            "postalCode": "11791",
             "coordinates": {
-                "lat": 34.06451,
-                "lng": -118.29203
+                "lat": 40.824090,
+                "lng": -73.504260
             },
             "name": "United States Postal Service"
         },
@@ -181,14 +181,14 @@
             "name": "Express Passport"
         },
         {
-            "address1": "8055 Churchill Way",
+            "address1": "245 Centereach Mall",
             "address2": "",
-            "city": "Dallas",
-            "state": "TX",
-            "postalCode": "75251",
+            "city": "Centereach",
+            "state": "NY",
+            "postalCode": "11720",
             "coordinates": {
-                "lat": 32.919567,
-                "lng": -96.768389
+                "lat": 40.860170,
+                "lng": -73.082780
             },
             "name": "Walgreens Photo"
         }
